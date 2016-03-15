@@ -1,0 +1,33 @@
+a {
+    color: #00aec1;
+}
+
+.console-os .navbar-pf {
+    background: #00aec1 none repeat scroll 0 0;
+}
+.navbar-pf .navbar-header {
+    border-bottom: 1px solid #00aec1;
+}
+.navbar-pf .navbar-nav > li > a {
+    color: #fff;
+}
+.navbar-pf .navbar-utility > li > a {
+    color: #fff !important;
+}
+
+.btn-primary{
+    background: #ffd301 none repeat scroll 0 0;
+    border: 4px solid #ffd301;
+    color: #002f47;
+    cursor: pointer;
+    border-radius: 1.5rem;
+}
+
+.console-os .wrap .sidebar-left .navbar-sidebar ul.nav-sidenav > li.active > a::after {
+    background-color: #00aec1;
+
+}
+
+.console-os .wrap .sidebar-left .navbar-sidebar ul.nav-sidenav > li.active > a .fa {
+    color: #00aec1;
+}
