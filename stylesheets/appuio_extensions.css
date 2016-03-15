@@ -31,3 +31,9 @@ a {
 .console-os .wrap .sidebar-left .navbar-sidebar ul.nav-sidenav > li.active > a .fa {
     color: #00aec1;
 }
+
+.bootstrap-select.btn-group .dropdown-menu > .selected > a {
+    background-color: #00aec1 !important;
+    border-color: #00aec1 !important;
+    color: #fff !important;
+}
